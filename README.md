@@ -2,7 +2,7 @@
 
 ## Payment: Be able to support PromptPay or Credit Card payments.  
 ![User paying for an order](https://raw.githubusercontent.com/NathanontP/demo-archive/refs/heads/main/user-pay-order.png)
-![Credit Card](https://raw.githubusercontent.com/NathanontP/demo-archive/refs/heads/main/pay-credit-card.png))
+![Credit Card](https://raw.githubusercontent.com/NathanontP/demo-archive/refs/heads/main/pay-credit-card.png)
 
 ## Account Management: Be able to edit profile e.g. Email, Profile image, Name, Phone number
 ![Edit profile](https://raw.githubusercontent.com/NathanontP/demo-archive/refs/heads/main/edit-profile.png)
